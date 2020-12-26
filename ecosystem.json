@@ -1,0 +1,6 @@
+{
+    "apps" : [{
+        "name" : "3366 Tarot Talk FCM Bridge",
+        "script" : "index.js"
+    }]
+}
